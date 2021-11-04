@@ -9,6 +9,8 @@ toc:
   path: /text/guide/word_embeddings
 - title: "Decoding API"
   path: /text/guide/decoding_api
+- title: "Conversion to TF Lite"
+  path: /text/guide/tflite
 - heading: Pre-processing
   style: divider
 - title: "BERT preprocessing"
